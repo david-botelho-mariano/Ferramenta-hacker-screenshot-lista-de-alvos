@@ -1,0 +1,24 @@
+[0925/112735.856:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/112740.862:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/112803.751:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/112808.759:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113135.526:ERROR:headless_shell.cc(204)] Capture screenshot is disabled when remote debugging is enabled.
+[0925/113146.145:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113151.160:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113443.572:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113448.586:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113453.678:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113735.935:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113740.939:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113823.392:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113828.405:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113922.743:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/113927.750:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0925/144914.395:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0925/144914.411:ERROR:exception_snapshot_win.cc(98)] thread ID 14080 not found in process
+[0925/145620.649:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0925/145620.651:ERROR:exception_snapshot_win.cc(98)] thread ID 15216 not found in process
+[0925/145631.179:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0925/145631.179:ERROR:exception_snapshot_win.cc(98)] thread ID 18076 not found in process
+[0925/145643.079:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0925/145643.079:ERROR:exception_snapshot_win.cc(98)] thread ID 14072 not found in process
