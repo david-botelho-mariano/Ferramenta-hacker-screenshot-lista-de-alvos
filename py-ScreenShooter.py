@@ -26,6 +26,7 @@ with open('alvos.txt', 'r') as f:
 	for linha in f.read().splitlines():
 
 		print(str(contador) + '/' + str(total_alvos))
+		print(linha)
 		contador = contador + 1
 		
 		try:
